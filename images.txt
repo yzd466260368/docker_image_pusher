@@ -5,4 +5,4 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 wurstmeister/zookeeper:3.4.6
-wurstmeister/kafka:2.13-2.8.0
+# wurstmeister/kafka:2.13-2.8.0
